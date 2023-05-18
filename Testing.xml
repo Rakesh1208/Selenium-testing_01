@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testng-test" parallel="methods">
+ <test name="testngTest">
+  <classes>
+   <class name="com.testng_report.testing_project.AppTest" />
+  </classes>
+ </test> 
+</suite>
